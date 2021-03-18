@@ -2,6 +2,9 @@
 using namespace std;
 
 int main{
-  cout << "Hello world";
+  int a = 1;
+  int b = 8;
+  int c = a + b
+  cout << c;
   return 0;
 }
